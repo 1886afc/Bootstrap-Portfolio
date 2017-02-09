@@ -1,0 +1,60 @@
+img{
+	width: 30%;
+	height: auto;
+}
+#me{
+	width: 125%;
+	height: auto;
+}
+h4{
+	text-align: center;
+    position: absolute;
+    top:75px;
+    left: ;
+    width: 91%;
+    height: auto
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 20px;
+    color:white;
+    background-color: black;
+    font-size: 2.2em;
+    
+}
+
+h3{
+	text-align: center;
+	background-color:;
+}
+h5{
+	
+}
+body{
+	background-image: url(images/triangular.png);
+	padding-bottom: 70px; 
+}  
+.row{
+	background-color: white;
+}
+.rpg{
+	width: 100%;
+	height: auto;
+}
+.hangman{
+	width: 100%;
+	height: auto;
+}
+.trivia{
+	width: 100%;
+	height: auto;
+}
+.rock{
+	width: 100%;
+	height: auto;
+}
+.rutgers{
+	width: 100%;
+	height: auto;
+}
+.container-fluid{
+	background-color: grey;
+}
